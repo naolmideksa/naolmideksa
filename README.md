@@ -2,10 +2,7 @@
 <tr>
 <td>
 
-<samp style="font-size: 5px; line-height: 1.1
-line-height: 0.7; letter-spacing: -0.5px; font-family: monospace;">
-
-```text
+<pre style="font-size: 7px; line-height: 0.7; letter-spacing: -0.5px; font-family: monospace;">
 .............;;....................................;;;;;;;;;;....
 .............,,,........,,::,,,:+;;,,,,,.,.........,,,,,,,,,,....
 .............,,,.....,,,:*?%???%SS%?*+**+;;,......,,,,,,,,,,,....
@@ -32,3 +29,21 @@ line-height: 0.7; letter-spacing: -0.5px; font-family: monospace;">
 ,,::::;;;;;++**++:,..?#SSSS?+;;;;;;;;;?SSSSSSSS?...:;+;++;++;:,,,
 ,:+;;;;;+;;+++:,,....;S#SSS#S%*++;++*%##SSSSSSS+......,:*+++;;:,,
 ,;+;;;;;;++++;;,.....:S##SSS####SSSS####SSSS#SS:......,::;+;;;:,,
+</pre>
+
+</td>
+<td>
+
+### Naol Mideksa Achalu
+*⚡ Computer Science Student*
+
+---
+
+* **Username:** @naolmid
+* **Telegram:** [t.me/naolmidhub](https://t.me/naolmidhub)
+* **Website:** [naolmid.pages.dev](https://naolmid.pages.dev)
+* **Projects:** Mesob Platforms
+
+</td>
+</tr>
+</table>
