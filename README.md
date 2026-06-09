@@ -2,7 +2,8 @@
 <tr>
 <td>
 
-<samp style="font-size: 8px; line-height: 1.1;">
+<samp style="font-size: 5px; line-height: 1.1
+line-height: 0.7; letter-spacing: -0.5px; font-family: monospace;">
 
 ```text
 .............;;....................................;;;;;;;;;;....
