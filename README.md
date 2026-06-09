@@ -1,8 +1,8 @@
-## 🧑‍💻 Profile
-
 <table>
 <tr>
 <td>
+
+<samp style="font-size: 8px; line-height: 1.1;">
 
 ```text
 .............;;....................................;;;;;;;;;;....
