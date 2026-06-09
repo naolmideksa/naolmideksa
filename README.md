@@ -1,29 +1,10 @@
-<table>
+
 <tr>
 <td>
 
-<div style="
-  display: inline-block;
-  background: #0d1117; 
-  border-radius: 50%; 
-  padding: 15px; 
-  width: 140px; 
-  height: 140px; 
-  overflow: hidden; 
-  border: 1px solid #30363d;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-">
-<pre style="
-  font-size: 3px; 
-  line-height: 0.7; 
-  letter-spacing: -0.5px; 
-  font-family: monospace; 
-  margin: 0; 
-  background: transparent; 
-  border: none;
-">
+<samp style="font-size: 5px; line-height: 1.1;">
+
+```text
 .............;;....................................;;;;;;;;;;....
 .............,,,........,,::,,,:+;;,,,,,.,.........,,,,,,,,,,....
 .............,,,.....,,,:*?%???%SS%?*+**+;;,......,,,,,,,,,,,....
@@ -50,22 +31,3 @@
 ,,::::;;;;;++**++:,..?#SSSS?+;;;;;;;;;?SSSSSSSS?...:;+;++;++;:,,,
 ,:+;;;;;+;;+++:,,....;S#SSS#S%*++;++*%##SSSSSSS+......,:*+++;;:,,
 ,;+;;;;;;++++;;,.....:S##SSS####SSSS####SSSS#SS:......,::;+;;;:,,
-</pre>
-</div>
-
-</td>
-<td>
-
-### Naol Mideksa Achalu
-*⚡ Computer Science Student*
-
----
-
-* **Username:** @naolmid
-* **Telegram:** [t.me/naolmidhub](https://t.me/naolmidhub)
-* **Website:** [naolmid.pages.dev](https://naolmid.pages.dev)
-* **Projects:** Mesob Platforms
-
-</td>
-</tr>
-</table>
